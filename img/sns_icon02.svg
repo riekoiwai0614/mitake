@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="グループ_532" data-name="グループ 532" transform="translate(-199 -6700)">
+    <rect id="Area" width="48" height="48" rx="24" transform="translate(199 6700)" fill="#69aa38"/>
+    <g id="Icon" transform="translate(208 6708.443)">
+      <rect id="Area-2" data-name="Area" width="31" height="31" transform="translate(0 -0.443)" fill="#fcfcfc" opacity="0"/>
+      <g id="Icon-2" data-name="Icon" transform="translate(3.82 3.82)">
+        <path id="Path" d="M25.417,13.322a10.667,10.667,0,0,1-1.146,4.839A10.823,10.823,0,0,1,14.6,24.145,10.667,10.667,0,0,1,9.757,23L2.5,25.417,4.919,18.16a10.667,10.667,0,0,1-1.146-4.839A10.823,10.823,0,0,1,9.757,3.646,10.667,10.667,0,0,1,14.6,2.5h.636A10.8,10.8,0,0,1,25.417,12.686Z" transform="translate(-2.5 -2.5)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.667"/>
+      </g>
+    </g>
+  </g>
+</svg>

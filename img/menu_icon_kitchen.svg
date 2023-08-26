@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <g id="グループ_128" data-name="グループ 128" transform="translate(-946 -1490.501)">
+    <g id="グループ_88" data-name="グループ 88" transform="translate(-170 -599.499)">
+      <rect id="Placement_Area" data-name="Placement Area" width="100" height="100" rx="50" transform="translate(1116 2090)" fill="#fff"/>
+    </g>
+    <g id="コック帽のアイコン素材" transform="translate(965 1462.182)">
+      <rect id="長方形_59" data-name="長方形 59" width="34.441" height="6.302" transform="translate(15.017 97.473)" fill="#69aa38"/>
+      <path id="パス_96" data-name="パス 96" d="M50.823,58.412a13.572,13.572,0,0,0-3.04.344,18.588,18.588,0,0,1,2.511,5.537H48.112a16.594,16.594,0,0,0-31.749,0H14.18a18.586,18.586,0,0,1,2.511-5.537,13.651,13.651,0,1,0-1.674,26.889v9.309H49.458V85.646a13.651,13.651,0,1,0,1.366-27.234ZM26.881,91.594h-2.1V80.252h2.1Zm12.811,0h-2.1V80.252h2.1Z" fill="#69aa38"/>
+    </g>
+  </g>
+</svg>

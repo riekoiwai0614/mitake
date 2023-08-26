@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <g id="グループ_63" data-name="グループ 63" transform="translate(-416 -2521)">
+    <rect id="Placement_Area" data-name="Placement Area" width="100" height="100" rx="50" transform="translate(416 2521)" fill="#fff"/>
+    <g id="便器アイコン1" transform="translate(376.602 2538)">
+      <path id="パス_43" data-name="パス 43" d="M73.41,312.593h27.353v-7.5c7.059-.883,15.442-11.912,15.442-18.97H73.41Z" transform="translate(0 -252.593)" fill="#69aa38"/>
+      <rect id="長方形_20" data-name="長方形 20" width="15" height="31.323" transform="translate(73.41)" fill="#69aa38"/>
+      <path id="パス_44" data-name="パス 44" d="M245.139,222.118H222.744v5.293h25.294v-2.4A2.9,2.9,0,0,0,245.139,222.118Z" transform="translate(-131.834 -196.089)" fill="#69aa38"/>
+    </g>
+  </g>
+</svg>
