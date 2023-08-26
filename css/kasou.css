@@ -1,0 +1,162 @@
+@charset "utf-8";
+/* よくある質問
+----------------------------------------------------------- */
+.mv h2 {
+	width: 95%!important;
+	max-width: 1640px!important;
+	margin: 40px auto 0 auto!important;
+	border-radius: 50px 0 50px 0;
+	padding:80px 0;
+	text-align: center;
+	background-position: right 0!important;
+	font-size: 35px;
+	text-shadow: 0 0 3px #ffffff;
+}
+.mv h2 span {
+    display: block;
+    font-size: 12px;
+}
+.qamv h2{
+	background:url(../img/qanda.png)no-repeat #F8F5F0;
+	background-position: right !important;
+}
+
+.qa .text {
+    text-align: center;
+    border-bottom: 3px solid #F8FCF5;
+    border-top: 3px solid #F8FCF5;
+    margin-bottom: 50px;
+    padding: 3px 0;
+    font-size: 14px;
+}
+
+.qa .text span {
+    border-bottom: 10px solid #F8FCF5;
+    border-top: 10px solid #F8FCF5;
+    padding: 20px 0;
+    display: inherit;
+}
+.qa dl {
+    background: #F8FCF6;
+    padding: 0px 40px;
+    margin: 0 0 40px 0;
+}
+.qa ul li dl dt {
+    border-bottom: 1px solid #000000;
+    padding: 20px 0 20px 0;
+    font-size: 18px;
+    padding-left: 40px;
+    text-indent: -35px;
+}
+
+.qa ul li dl dd {
+    padding: 20px 0;
+    color: #3D3D3D;
+    font-size: 14px;
+    padding-left: 40px;
+    text-indent: -34px;
+}
+
+.qa ul li dl dt:before {
+    content: "Q";
+    color: #537E3E;
+    margin: 0 15px 0 0;
+    font-family: 'Noto Sans JP';
+    font-weight: bold;
+    font-size: 28px;
+    }
+
+.qa ul li dl dd:before {
+    content: "A";
+    color: #D59C5F;
+    margin: 0 15px 0 0;
+    font-family: 'Noto Sans JP';
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.qa ul li:last-child dl {
+    margin-bottom: 0;
+}
+div#qanda {
+    border-bottom: 5px solid #F8F6F4;
+}
+
+/* 施工メニュー
+----------------------------------------------------------- */
+.menumv h2 {
+    background: url(../img/menumv.png)no-repeat #F8F5F0;
+}
+.menu ul {
+    display: flex;
+    text-align: center;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.menu ul li {
+    width: 25%;
+    color: #69AA38;
+    margin: 50px 0;
+    line-height: 10px;
+    font-size: 14px;
+}
+div#menu {
+    max-width: 1640px;
+    margin: 50px auto 0 auto;
+    border: 5px solid #ECF4E6;
+    width: 95%;
+}
+div#menu:before {
+    content: "";
+    background: url(../img/sankak_ue.png)no-repeat;
+    display: block;
+    width: 80px;
+    height: 80px;
+    margin-left: auto;
+    margin-right: 0px;
+}
+div#menu:after {
+    content: "";
+    background: url(../img/sankaku_shita.png)no-repeat;
+    display: block;
+    width: 80px;
+    height: 80px;
+    margin: 0;
+}
+.menu ul li img {
+    width: 50%!important;
+    display: block;
+    margin: 0 auto;
+}
+section.menu {
+    padding: 0;
+}
+
+
+
+/* ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★ */
+/* ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★ */
+
+@media screen and (max-width: 591px) {
+
+/* ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★ */
+/* ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★ */
+
+/*よくある質問*/
+.mv h2 {
+	/* background-size: cover; */
+}
+
+.menu ul li {
+	width:50%;
+}
+
+
+/* ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆ */
+
+} /* max-width: 591px ここまで */
+
+/* ☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆☆ */
